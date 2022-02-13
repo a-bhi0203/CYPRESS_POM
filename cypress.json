@@ -1,0 +1,6 @@
+{
+    "fixturesFolder":"cypress/data",
+    "integrationFolder":"cypress/tests",
+    "reporter": "mochawesome"
+      
+}
